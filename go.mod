@@ -1,4 +1,4 @@
-module p2pbind
+module github.com/maceip/p2pbind
 
 go 1.18
 
